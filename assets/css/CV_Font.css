@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'DINBek';
+  src: url('../../font/dinbek/DINBek.eot');
+  src: url('../../font/dinbek/DINBek.woff') format('woff'),
+       url('../../font/dinbek/DINBek.ttf') format('truetype'),
+       url('../../font/dinbek/DINBek.svg#DINBek') format('svg'),
+       url('../../font/dinbek/DINBek.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DINbekMedium';
+  src: url('../../font/dinbekmedium/DINbekMedium.eot');
+  src: url('../../font/dinbekmedium/DINbekMedium.woff') format('woff'),
+       url('../../font/dinbekmedium/DINbekMedium.ttf') format('truetype'),
+       url('../../font/dinbekmedium/DINbekMedium.svg#DINbekMedium') format('svg'),
+       url('../../font/dinbekmedium/DINbekMedium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,285 @@
+﻿.siteContainer {
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.swiper-slide {
+    /*background:#fff !important;*/
+}
+
+#iletisimContainer2 > .siteContainer{
+    padding-left:0 !important;
+    padding-right:0 !important;
+}
+
+@media only screen and (max-width:1500px) {
+    .siteContainer {
+        width: 1240px;
+    }
+
+    .cerrahiAletItemContainer:nth-child(3n){
+        margin-right:0px;
+    }
+
+    .cerrahiAletItemContainer, .cerrahiAletItemContainer:nth-child(4n){
+        margin-right:97px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(3n) {
+        margin-right:0px;
+    }
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(4n) {
+        margin-right:58px;
+    }
+    .cerrahiAletlerCatalogItemContainer{
+        width:1073px;
+        margin:0 auto;
+    }
+    .cerrahiAletlerGeneralContainerFiltre{
+        background: rgba(255, 255, 255, 0.8); 
+    }
+
+    .cerrahiAletBannerRight{
+        width:644px;
+    }
+
+    #cerrahiAletlerCatalogItemContainer_allSurgicalBranches{
+        margin:0 auto;
+    }
+}
+
+@media only screen and (max-width:1240px) {
+    .siteContainer {
+        width: 1000px;
+    }
+
+    .cerrahiAletItemGeneralContainer{
+        width:761px;
+        margin-left:0;
+        margin:0 auto;
+    }
+
+    .cerrahiAletItemContainer:nth-child(even){
+        margin-right:0px;
+    }
+
+    .cerrahiAletItemContainer:nth-child(odd){
+        margin-right:97px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(even){
+        margin-right:0px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(odd){
+        margin-right:58px;
+    }
+    
+    .cerrahiAletlerCatalogItemContainer{
+        width:700px;
+    }
+
+    .cerrahiAletBannerRight{
+        width:404px;
+    }
+
+    .allSurgicalBranches{
+        margin:0 auto;
+        margin-bottom: 50px;
+    }
+
+    .cerrahiAletItemGeneralContainer{
+        width:728px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .siteContainer {
+        width: 760px;
+    }
+
+    .cerrahiAletItemContainer:nth-child(even){
+        margin-right:0px;
+    }
+
+    .cerrahiAletItemContainer:nth-child(odd){
+        margin-right:46px;
+    }
+
+    .cerrahiAletlerContentText, .cerrahiAletlerLeftContainer{
+        width:100%;
+        margin-left:0;
+    }
+
+    #cerrahiAletlerGeriIcon, #cerrahiAletlerGeneralContainer{
+        /*padding-left:0;
+        padding-right:0;*/
+    }
+    .cerrahiAletlerGeriIcon{
+        /*margin-left:25px;*/
+    }
+
+    .cerrahiAletlerTitleIcon{
+        margin-left:0px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(even){
+        margin-right:0px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer .cerrahiAletlerCatalogItem:nth-child(odd){
+        margin-right:0px;
+    }
+    
+    .cerrahiAletlerCatalogItemContainer{
+        width:320px;
+    }
+
+    .cerrahiAletBannerLeftLineClear{
+        display:block;
+    }
+
+    .cerrahiAletBannerLeftLine{
+        float:none;
+        width:100%;
+        height:1px;
+        margin-left:0;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+
+    .cerrahiAletBannerLeft{
+        float:none;
+        margin:0 auto;
+    }
+
+    .cerrahiAletBannerLeftTitle{
+        text-align:center;
+    }
+
+    .cerrahiAletBannerLeftTitleSubLine{
+        margin:0 auto;
+    }
+
+    .cerrahiAletBannerLeftText{
+        text-align:center;
+    }
+
+    .cerrahiAletBannerRight{
+        float:none;
+        margin:0 auto;
+        width:100%;
+    }    
+
+    .cerrahiAletItemGeneralContainer {
+        width: 676px;
+    }
+}
+
+@media only screen and (max-width:940px) {
+    .contResolution {
+        width: 100% !important;
+        height:auto !important;
+        padding:0 !important;
+    }
+    .cerrahiAletlerContentText {
+        width:calc(100% - 30px);
+        padding:0 15px 0 15px !important;
+    }
+    .resCont {
+        width:calc(100% - 30px);
+        padding:0 15px 0 15px !important;
+    }
+    .cerrahiAletlerGeriIcon{
+        margin-left:0;
+    }
+    .cerrahiAletlerGeriTextLine{
+        margin-left:0;
+    }
+}
+
+@media only screen and (max-width:760px) {
+    *:not(.slider):not(.slider_liste):not(.cerrahiAletItemGeneralContainer) { 
+        max-width:100%;
+    }
+
+    #cerrahiAletlerGeneralContainer{
+        width:100% !important;
+        padding-left:0;
+        padding-right:0;
+    }
+    .cerrahiAletlerContentText{
+        padding-left:25px;
+        padding-right:25px;
+    }    
+
+    #cerrahiAletlerLeftInnerContainer{
+        padding-left:25px;
+        padding-right:25px;
+    }
+
+    #cerrahiAletlerGeriIcon, #cerrahiAletlerLeftInnerContainer{
+        width:100% !important;
+    }
+
+    #cerrahiAletItemGeneralContainer{
+        margin-left:0;
+    }
+
+    .cerrahiAletlerCatalogItemTitle{
+        width:calc(100% - 40px);
+    }
+
+    .cerrahiAletItemGeneralContainer {
+        width: 315px;
+    }
+
+    .cerrahiAletItemContainer{
+        margin-right:0;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .siteContainer {
+        width: 100%;
+    }
+
+    #cerrahiAletItemGeneralContainer{
+        padding-left:0px;
+        padding-right:0px;
+        width:320px;
+        margin:0 auto;
+    }
+
+    .cerrahiAletItemGeneralContainer{
+        width:320px;
+    }
+
+    .resCont{
+        width:calc(320px - 75px);
+    }
+
+    .cerrahiAletItemContainer:nth-child(even){
+        margin-right:0;
+    }
+
+    .cerrahiAletItemContainer:nth-child(odd){
+        margin-right:0;
+    }
+
+    .cerrahiAletItemContainer{
+       margin:0 auto;
+       margin-bottom:9px;
+    }
+
+    .cerrahiAletlerCatalogItemContainer{
+        margin:0 auto;
+    }
+}
+
+.header{
+    -webkit-box-shadow: 0 0 0 0px white, 0 0px 15px rgba(0,0,0,0.20);
+    -moz-box-shadow: 0 0 0 0px white, 0 0px 15px rgba(0,0,0,0.20);
+    box-shadow: 0 0 0 0px white, 0 0px 15px rgba(0,0,0,0.20);
+    border-bottom: 0px solid #ccc;
+}

@@ -1,0 +1,42 @@
+﻿#sortable {
+    height: auto;
+    overflow: hidden;
+}
+#slaytlar {
+    list-style: none;
+}
+    #slaytlar li {
+        list-style: none;
+        -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.44);
+        -moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.44);
+        box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.44);
+        padding: 5px;
+        margin: 2px;
+    }    
+.draggable {
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.52);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.52);
+    box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.52);
+    padding: 0px;
+    margin: 0 auto;
+    background-color: #fff;
+    margin-top:10px;
+    padding: 15px;
+}
+.card-body {
+    padding: 25px;
+}
+
+.btn i {
+       margin-left:5px;
+     margin-right:5px;
+}
+
+.btn span {
+    margin-left:5px;
+     margin-right:5px;
+}
+
+/*.slider-title {
+    position:absolute;
+}*/

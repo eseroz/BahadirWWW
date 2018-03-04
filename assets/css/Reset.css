@@ -1,0 +1,30 @@
+﻿body,* { margin:0; padding:0; font-family:'Segoe UI';}
+.clear { float:none; clear:both;}
+a { text-decoration:none}
+ul,li { list-style:none}
+img { border:none; display:block}
+.textleft { text-align:left}
+.textright { text-align:right}
+.texttop { vertical-align:text-top}
+.textcenter { text-align:center}
+.block { display:block}
+.none { display:none}
+.pointer { cursor:pointer}
+h1,h2,h3,h4,h5,h6 { font-weight:normal}
+::selection { background:#233843; color:#fff}
+::-moz-selection { background:#EE0000; color:#fff}
+.indent { text-indent:-9999px !important}
+input[type="text"] {  outline:none}
+input[type="button"] { border:none; outline:none}
+.absolute { position:absolute}
+.bold { font-weight:bold}
+.marginRightNone { margin-right:0 !important}
+.auto { margin:auto}
+.black { color:#222 !important}
+.white { color:#fff !important}
+.marginnone { margin:0 !important}
+.textRed { color:#d30101; padding-left:10px !important}
+.textGray { color:#393939; font-weight:normal !important; padding-left:10px !important}
+.black { color:#000}
+input[type="text"],input[type="button"] { outline:none}
+.table td { padding:3px}

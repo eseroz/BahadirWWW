@@ -1,0 +1,101 @@
+﻿@media only screen and (max-width:1500px) {
+    .siteContainer {
+        width: 1240px;
+    }
+}
+
+@media only screen and (max-width:1240px) {
+    .siteContainer {
+        width: 1000px;
+    }
+}
+
+@media only screen and (max-width:1170px) {
+    .onlineCatalogLogo{
+        display:none;
+    }
+
+    #onlineCatalogContainerLeftTextClear{
+        display:block;
+    }
+
+    .onlineCatalogContainer{
+        width:604px;
+    }
+
+    .onlineCatalogContainerRightImgContainer{
+        float:none;
+        margin:0 auto;
+        width:380px;
+    }
+
+    .onlineCatalogFullContainer{
+        padding-top:60px;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .siteContainer {
+        width: 760px;
+    }
+}
+
+@media only screen and (max-width:780px) {
+
+}
+
+@media only screen and (max-width:760px) {
+    *:not(.slider):not(.slider_liste) { 
+        max-width:100%;
+    }
+
+    .siteContainer {
+        width: 580px;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .siteContainer {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:446px) {
+    .onlineCatalogQueryContainerIc{
+        width:100%;
+    }
+    .onlineCatalogQueryContainerIcBanner{
+        padding-left:25px;
+        width:100%;
+    }
+    .onlineCatalogContainerRightProductCodeFullContainer{
+        max-width:380px !important;
+    }
+    
+    .onlineCatalogContainerRightImgContainer{
+        width:300px;
+        margin:0 auto;
+    }
+}
+
+@media only screen and (max-width:430px) {
+    .txt_onlineCatalogContainerRightProductCodeContainer{
+        width:calc(100% - 80px);
+    }
+
+    .a_onlineCatalogContainerRightProductCodeContainer{
+        float:left;
+    }    
+
+    .onlineCatalogContainerLeftText{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+
+    
+}
+@media only screen and (max-width:320px) {
+    .siteContainer {
+        width: 100%;
+    }
+}

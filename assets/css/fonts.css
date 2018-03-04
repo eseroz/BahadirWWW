@@ -1,0 +1,124 @@
+﻿@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('/assets/fonts/brandon.eot');
+    src: url('/assets/fonts/brandon.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/brandon.woff') format('woff'),url('/assets/fonts/brandon.ttf') format('truetype'),url('/assets/fonts/brandon.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'BrandonGrotesque-Light';
+  src: url('/assets/fonts/brandongrotesquelight/BrandonGrotesque-Light.eot');
+  src: url('/assets/fonts/brandongrotesquelight/BrandonGrotesque-Light.woff') format('woff'),
+       url('/assets/fonts/brandongrotesquelight/BrandonGrotesque-Light.ttf') format('truetype'),
+       url('/assets/fonts/brandongrotesquelight/BrandonGrotesque-Light.svg#BrandonGrotesque-Light') format('svg'),
+       url('/assets/fonts/brandongrotesquelight/BrandonGrotesque-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Brandon Grotesque Black';
+  src: url('/assets/fonts/brandongrotesqueblack/BrandonGrotesque-Black.eot');
+  src: url('/assets/fonts/brandongrotesqueblack/BrandonGrotesque-Black.woff') format('woff'),
+       url('/assets/fonts/brandongrotesqueblack/BrandonGrotesque-Black.ttf') format('truetype'),
+       url('/assets/fonts/brandongrotesqueblack/BrandonGrotesque-Black.svg#BrandonGrotesque-Black') format('svg'),
+       url('/assets/fonts/brandongrotesqueblack/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('/assets/fonts/raleway-regular/raleway-regular.eot');
+    src: url('/assets/fonts/raleway-regular/raleway-regular.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/raleway-regular/raleway-regular.woff') format('woff'),url('/assets/fonts/raleway-regular/raleway-regular.ttf') format('truetype'),url('/assets/fonts/raleway-regular/raleway-regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway Medium';
+    src: url('/assets/fonts/raleway-medium/raleway-medium.eot');
+    src: url('/assets/fonts/raleway-medium/raleway-medium.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/raleway-medium/raleway-medium.woff') format('woff'),url('/assets/fonts/raleway-medium/raleway-medium.ttf') format('truetype'),url('/assets/fonts/raleway-medium/raleway-medium.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway Semibold';
+    src: url('/assets/fonts/raleway-semibold/raleway-semibold.eot');
+    src: url('/assets/fonts/raleway-semibold/raleway-semibold.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/raleway-semibold/raleway-semibold.woff') format('woff'),url('/assets/fonts/raleway-semibold/raleway-semibold.ttf') format('truetype'),url('/assets/fonts/raleway-semibold/raleway-semibold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway Light';
+  src: url('/assets/fonts/raleway-light/Raleway-Light.eot');
+  src: url('/assets/fonts/raleway-light/Raleway-Light.woff') format('woff'),
+       url('/assets/fonts/raleway-light/Raleway-Light.ttf') format('truetype'),
+       url('/assets/fonts/raleway-light/Raleway-Light.svg#Raleway-Light') format('svg'),
+       url('/assets/fonts/raleway-light/Raleway-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway-Bold';
+  src: url('/assets/fonts/raleway-bold/Raleway-Bold.eot');
+  src: url('/assets/fonts/raleway-bold/Raleway-Bold.woff') format('woff'),
+       url('/assets/fonts/raleway-bold/Raleway-Bold.ttf') format('truetype'),
+       url('/assets/fonts/raleway-bold/Raleway-Bold.svg#Raleway-Bold') format('svg'),
+       url('/assets/fonts/raleway-bold/Raleway-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('/assets/fonts/poppins-medium/Poppins-Medium.eot');
+  src: url('/assets/fonts/poppins-medium/Poppins-Medium.woff') format('woff'),
+       url('/assets/fonts/poppins-medium/Poppins-Medium.ttf') format('truetype'),
+       url('/assets/fonts/poppins-medium/Poppins-Medium.svg#Poppins-Medium') format('svg'),
+       url('/assets/fonts/poppins-medium/Poppins-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/YBFonts/Montserrat-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('/assets/fonts/YBFonts/Montserrat-Bold.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('/assets/fonts/YBFonts/Montserrat-SemiBold.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('/assets/fonts/YBFonts/Montserrat-Light.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Open-Sans-Light';
+    src: url('/assets/fonts/YBFonts/OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

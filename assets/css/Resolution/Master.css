@@ -1,0 +1,227 @@
+﻿/*Width:1240px*/
+@media only screen and (max-width:1550px) {
+    .menuContainer{
+        width:100%;
+        padding-left:25px;
+        padding-right:25px;
+    }
+
+    #iletisimContainer1{
+        padding-left:25px;
+        padding-right:25px;
+    }
+
+    /*.bannerMenu{
+        margin-left:231px;
+    }*/
+}
+
+@media only screen and (max-width:1500px){
+    .siteContainer {
+        max-width: 1240px;
+    }
+
+    /*.bannerMenu{
+        margin-left: 74px;
+    }*/
+
+    .carousel-caption{
+        top: 80px;
+    }
+}
+
+@media only screen and (max-width:1300px) {
+    #bannerMainMenu li{
+        margin-right:45px;
+    }
+    #bannerMainMenu li:nth-child(2){
+        margin-right:47px;
+    }
+    #bannerMainMenu li:nth-child(3){
+        margin-right:49px;
+    }
+}
+@media only screen and (max-width:1250px) {
+    #bannerMainMenu li{
+        margin-right:35px;
+    }
+    #bannerMainMenu li:nth-child(2){
+        margin-right:37px;
+    }
+    #bannerMainMenu li:nth-child(3){
+        margin-right:39px;
+    }
+}
+
+@media only screen and (max-width:1240px) {
+    .homeIletisimBizeUlasinContainer{
+        width: 227px;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    #bannerMainMenu li{
+        margin-right:25px;
+    }
+    #bannerMainMenu li:nth-child(2){
+        margin-right:27px;
+    }
+    #bannerMainMenu li:nth-child(3){
+        margin-right:29px;
+    }
+}
+
+@media only screen and (max-width:1150px) {
+    #bannerMainMenu{
+        display:none;
+    }
+
+    .cPushMenuIcon{
+        display:block;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    #iletisimContainer1{
+        display:none;
+    }
+
+    #iletisimContainer2{
+        display:block;
+    }
+    .iletisimContainer2_homeIletisimBizeUlasinContainer{
+        margin-left:80px;
+    }
+    .iletisimContainer2_homeIletisimMailAboneligiContainer{
+        margin-right:80px;
+    }
+}
+
+@media only screen and (max-width:760px) {
+    .bannerSearch{
+        display:none;
+    }
+    .smallBannerSearch{
+        display:block;
+    }
+    .languageContainer{
+        display:none;
+    }
+    .homeIletisimSosyalMedyaContainer { 
+        height:auto;
+    }
+    .homeIletisimSosyalMedyaContainerSosyalMedya { 
+        clear:both;
+    }
+    .homeIletisimSosyalMedyaContainerSosyalMedyaTitle{
+        text-align:center;
+    }
+    .homeIletisimSosyalMedyaContainerSosyalMedyaTitle{
+        width:100%;
+    }
+    .homeIletisimSosyalMedyaContainerLine { 
+        display:none;
+    }
+    .homeIletisimSosyalMedyaContainerDestek { 
+        clear:both; 
+        margin:auto; 
+        margin-top:12px;
+    }
+    .homeIletisimSosyalMedyaContainerDestekTitle{
+        width:100%;
+        text-align:center;
+    }
+    .homeIletisimSosyalMedyaContainerDestekMenu{
+        text-align:center;
+    }
+    .iletisimContainer2_homeIletisimBizeUlasinContainer{
+        float:none;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .iletisimContainer2_homeIletisimBizeUlasinContainerSubLine{
+        display:block;
+    }
+    .iletisimContainer2_homeIletisimMailAboneligiContainer{
+        float:none;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .iletisimContainer2_homeIletisimSosyalMedyaContainer{
+        height:auto;
+    }
+    .homeIletisimSosyalMedyaGeneralContainerSosyalMedya{
+        width:100%;
+    }
+    .homeIletisimSosyalMedyaContainerSosyalMedya{
+        width:100%;
+    }    
+    .homeIletisimSosyalMedyaContainerSosyalMedya ul{
+        height: 28px;
+        width: 110px;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+    .homeIletisimSosyalMedyaContainerLineSubLibeClear{
+        display:block;
+    }
+    .homeIletisimSosyalMedyaContainerLine2{
+        display:block;
+    }
+    .homeIletisimSosyalMedyaContainerLineSubLibe{
+        display:block;
+    }
+    .homeIletisimSosyalMedyaContainerDestek{
+        width:100%;
+        padding-bottom:50px;
+    }
+
+    .copyrightText{
+        float:none;
+        margin:0 auto;
+        margin-top: 18px;
+        margin-bottom: 80px;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    #logoImg1{
+        display:none;
+    }
+    #logoImg2{
+        display:block;
+    }
+
+    #search_icon2 img{
+        width:22px;
+        height:22px;
+    }
+
+    .cPushMenuIcon img{
+        width:26px;
+        height:14px;
+    }
+
+    /*.bannerMenu {
+        margin-left: 21px;
+    }*/
+
+    .smallBannerSearch{
+        margin-right: -9px;
+    }
+}
+
+@media only screen and (max-width:330px) {
+    .iletisimContainer2_txt_mailAboneligi {
+        width:175px;
+    }
+}
+
+.swiper-container {
+    height: auto;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    background: #eee;
+}

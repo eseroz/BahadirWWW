@@ -1,0 +1,118 @@
+﻿.siteContainer {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+@media only screen and (max-width:1500px) {
+    .siteContainer {
+        width: 1240px;
+    }
+}
+
+@media only screen and (max-width:1240px) {
+    .siteContainer {
+        width: 1000px;
+    }
+
+    .contactInformationTitleGeneralContainerLeft {
+        float: none;
+        margin: 0 auto;
+        width: 710px;
+        margin-bottom: 50px;
+    }
+
+    .contactInformationTitleGeneralContainerRight{
+        float:none;
+        margin:0 auto;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .siteContainer {
+        width: 760px;
+    }
+
+    .bayiliklerContainer {
+        width: 710px;
+    }
+}
+
+@media only screen and (max-width:980px) {
+    .contactInformationMenuContainer {
+        width: 320px;
+    }
+
+        .contactInformationMenuContainer li {
+            margin-bottom: 20px;
+        }
+}
+
+@media only screen and (max-width:770px) {
+}
+
+@media only screen and (max-width:760px) {
+    *:not(.slider):not(.slider_liste) {
+        max-width: 100%;
+    }
+
+    #bayiliklerContainerLeftRight {
+        display: block;
+    }
+
+    .bayiliklerContainer {
+        width: 320px;
+    }
+
+    .bayiliklerContainerRight {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .contactInformationTitleGeneralContainerLeft{
+        width:310px;
+    }
+
+    .contactInformationTitle{
+        text-align:center;
+    }
+    
+    .contactInformationTitleGeneralContainerRight {
+        float: none;
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .bayilikItemContainerRight {
+        margin-top: 50px;
+    }
+
+    .contactInformationTitleSubLine {
+        margin: 0 auto;
+        float: none;
+        margin-top:18px;
+    }
+
+    .contactInformationMenuContainerFirmaTitle, .contactInformationMenuContainerFirmaAdres, .contactInformationMenuContainerFirmaAdres, .contactInformationMenuContainerFirmaTel {
+        text-align: center;
+    }
+
+    .ik_onYaziPostContainerTitle{
+        margin-top:0;
+    }
+
+    .ik_formFooterContainer{
+        margin-top:15px;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .siteContainer {
+        width: 320px;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .siteContainer {
+        width: 100%;
+    }
+}

@@ -1,0 +1,258 @@
+﻿@media only screen and (max-width:1550px) {
+    .siteContainer {
+        padding-left:25px;
+        padding-right:25px;
+    }
+
+    .telSepetDetayContainer{
+        width:100%;
+        padding-left:25px;
+        padding-right:25px;
+    }
+}
+
+@media only screen and (max-width:1500px) {
+    .siteContainer {
+        width: 1240px;
+    }
+}
+
+@media only screen and (max-width:1240px) {
+    .siteContainer {
+        width: 1000px;
+    }
+}
+
+@media only screen and (max-width:1350px) {
+    .telSepetCategoryContainer {
+        width: 640px;
+    }
+
+    #telSepetBannerTextContainer{
+        display:block;
+        margin-bottom:50px;
+    }
+
+    #telSepetBannerTextContainer2{
+        display:none;
+    }
+
+    .telSepetBannerTextContainer{
+        margin-left:0;
+    }
+
+    .telSepetCategoryItemContainer:last-child {
+        margin-right:0;
+    }
+
+    .telSepetBannerTextContainer{
+        margin:0 auto;
+        float:none;
+    }
+
+    .telSepetBannerTextContainerTitle{
+        text-align:center;
+        width: 350px;
+        color:#026a31;
+    }
+
+    .telSepetBannerTextContainerText{
+        color:#026a31;
+    }
+
+    .telSepetBannerTextContainerTitleSubLine{
+        margin:0 auto;
+        margin-top: 10px;
+    }
+    .telSepetCategoryItemGeneralContainer{
+        width:640px;
+        margin:0 auto;
+    }
+
+    .telSepetCategoryItemContainerSubLine{
+        margin:0 auto;
+        width:640px;
+    }
+
+    .telSepetCategoryItemContainerSubLineTextContainer{
+        text-align:center;
+    }
+
+    .telSepetBannerContainer{
+        background:#1f2833;
+    }
+}
+
+@media only screen and (max-width:1120px) {
+    #telSepetBannerTextContainer{
+        display:block;
+        margin-bottom:50px;
+    }
+
+    #telSepetBannerTextContainer2{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .siteContainer {
+        width: 760px;
+    }
+}
+
+@media only screen and (max-width:1030px) {
+    .telSepetDetayContainerText{
+        float:none;
+        margin:0 auto;
+        height:auto;
+    }
+
+    .telSepetDetayContainerTopLine{
+        margin:0 auto;
+    }
+
+    .telSepetDetayContainerTitle{
+        text-align:center;
+    }
+
+    .telSepetDetayContainerText{
+        margin-top:30px;
+    }
+
+    .telSepetDetayContainerSlider{
+        float:none;
+        margin:0 auto;
+        margin-top:1px;
+        height:auto;
+        width:580px;
+        border-top:0px solid #f2f2f2;
+    }
+
+    .telSepetDetayContainerSlider img{
+        margin:0 auto;
+    }
+
+    .telSepetDetayFullContainer{
+        height:auto;
+    }
+
+    .telSepetDetayContainer{
+        height:auto;
+    }
+}
+
+@media only screen and (max-width:930px) {
+    .telSepetCategoryContainer{
+        width:440px;
+    }
+
+    .telSepetCategoryItemContainerSubLine{
+        width:420px;
+    }
+
+    .telSepetCategoryItemGeneralContainer{
+        width:200px;
+        margin:0 auto;
+    }
+
+    .telSepetBannerTextContainer{
+        width:350px;
+        float:none;
+        margin:0 auto;
+    }
+
+    .telSepetBannerTextContainerTitle{
+        width:350px;
+        text-align:center;
+    }
+
+    .telSepetBannerTextContainerTitleSubLine{
+        margin: 0 auto;
+        margin-top:10px;
+    }
+
+    .telSepetBannerContainer{
+        height:auto;
+    }
+
+    .telSepetBannerContainer{
+        padding-bottom:50px;
+    }
+
+    .telSepetCategoryItemContainer{
+        margin-bottom:20px;
+    }    
+
+    .konteynerCategoryItemContainerSubLine{
+        width:440px;
+    }
+}
+
+@media only screen and (max-width:780px) {
+
+}
+
+@media only screen and (max-width:760px) {
+    *:not(.slider):not(.slider_liste) { 
+        max-width:100%;
+    }
+
+    .siteContainer {
+        width: 580px;
+    }
+}
+
+@media only screen and (max-width:710px) {
+    .telSepetCategoryItemGeneralContainer{
+        width:200px;
+        margin:0 auto;
+    }
+
+    .telSepetBannerTextContainer{
+        width:350px;
+        float:none;
+        margin:0 auto;
+    }
+
+    .telSepetBannerTextContainerTitle{
+        width:350px;
+        text-align:center;
+    }
+
+    .telSepetBannerTextContainerTitleSubLine{
+        margin: 0 auto;
+        margin-top:10px;
+    }
+
+    .telSepetBannerContainer{
+        height:auto;
+    }
+
+    .telSepetBannerContainer{
+        padding-bottom:50px;
+    }
+
+    .telSepetCategoryItemContainer{
+        margin-bottom:20px;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .siteContainer {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:490px) {
+    .telSepetCategoryContainer {
+        width: 300px;
+    }
+
+    .telSepetCategoryItemContainer{
+        margin-right:0;
+    }
+
+    .telSepetCategoryItemGeneralContainer{
+        width:200px;
+    }
+}
